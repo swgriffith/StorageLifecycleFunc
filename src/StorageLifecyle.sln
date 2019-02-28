@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageLifecyle", "StorageLifecyle\StorageLifecyle.csproj", "{B2AA9AD2-57F0-4984-B79A-948073D81579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AA9AD2-57F0-4984-B79A-948073D81579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AA9AD2-57F0-4984-B79A-948073D81579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AA9AD2-57F0-4984-B79A-948073D81579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AA9AD2-57F0-4984-B79A-948073D81579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77E6519D-081B-425D-9721-581316FE2E00}
+	EndGlobalSection
+EndGlobal
